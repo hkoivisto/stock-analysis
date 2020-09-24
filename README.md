@@ -14,11 +14,11 @@ The data in this analysis is divided by year, witch an individual year's worth o
 
 With the exception of ticker RUN, all stocks performed for favorably in 2017 than in 2018. This could indicate a downturn in the clean energy market overall for 2018. Based on these data, the best investment potential is in ticker ENPH, which is the only stock to perform favorably both years. 
 
-      ##### 2017 Tabulated Reults
+   ##### 2017 Tabulated Reults
       
 ![2017_Stock_Results](https://github.com/hkoivisto/stock-analysis/blob/master/Resources/2017_Stock_Results.png)
 
-      ##### 2018 Tabulated Reults
+   ##### 2018 Tabulated Reults
       
 ![2018_Stock_Results](https://github.com/hkoivisto/stock-analysis/blob/master/Resources/2018_Stock_Results.png)
 
